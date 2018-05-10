@@ -1,16 +1,3 @@
 Peace and Happiness Project Reflection
 
-After learning of the release of the 2018 World Happiness Report in my AP Macroeconomics class, I became curious about what
-factors might influence the rankings for happiness. Initially, I wanted to find the correlation between GDP per capita
-and happiness to assess the validity of the classic “money can’t buy happiness” question. However, I quickly realized
-that GDP per capita is included in the ranking. While I could plot GDP against the happiness index minus GDP 
-(i.e. all the other factors that go into the ranking), this would take quite a while, and I decided against it. 
-Instead, I opted to plot the happiness against the peace of a country. Because the United States is largely a violent 
-nation, I thought it would be interesting to see what impact the level of peace of a country would have on the happiness 
-of its citizens. I plotted the peace index of countries, produced by the Institute for Economics and Peace, against the 
-happiness, and found that the two data sets had a correlation of -0.61935, which is considered a moderate correlation. 
-The correlation is negative simply because lower indices indicate higher levels of peace, and higher indices indicate higher 
-levels of happiness. Doing this project, I not only learned about the factors that affect global levels of happiness, but I 
-also learned how to import and plot data from Excel into MATLAB, as well as how to manipulate it into a form from which 
-correlation can be calculated, calculate the correlation, and plot a trend line in a way such that the data can be interpreted
-visually as well as quantitatively.
+After learning of the release of the 2018 World Happiness Report in my AP Macroeconomics class, I became curious about what factors might influence the rankings for happiness. Initially, I wanted to find the correlation between GDP per capita and happiness to assess the validity of the classic “money can’t buy happiness” question. However, I quickly realized that GDP per capita is included in the ranking. While I could plot GDP against the happiness index minus GDP (i.e. all the other factors that go into the ranking), this would take quite a while, and I decided against it. Instead, I opted to plot the happiness against the peace of a country. Because the United States is largely a violent nation, I thought it would be interesting to see what impact the level of peace of a country would have on the happiness of its citizens. I plotted the peace index of countries, produced by the Institute for Economics and Peace, against the happiness, and found that the two data sets had a correlation of -0.61935, which is considered a moderate correlation. The correlation is negative simply because lower indices indicate higher levels of peace, and higher indices indicate higher levels of happiness. Doing this project, I not only learned about the factors that affect global levels of happiness, but I also learned how to import and plot data from Excel into MATLAB, as well as how to manipulate it into a form from which correlation can be calculated, calculate the correlation, and plot a trend line in a way such that the data can be interpreted visually as well as quantitatively.
