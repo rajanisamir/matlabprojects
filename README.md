@@ -1,2 +1,2 @@
 # matlabprojects
-Samir's MATLAB Portfolio for Honors Multivariable Calculus
+Various MATLAB projects from my 2018 Honors Multivariable Calculus class!
